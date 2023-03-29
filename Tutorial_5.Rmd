@@ -6,3 +6,5 @@ output: html_document
 ---
 
 This is an example for rebasing repo.
+
+This is another example
